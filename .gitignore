@@ -1,0 +1,25 @@
+# Python temporary files and caches
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# VS Code / editor files
+.vscode/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
