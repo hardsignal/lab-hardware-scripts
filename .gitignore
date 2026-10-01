@@ -23,3 +23,6 @@ env/
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Local instrument connection profiles
+connections_live.json

@@ -1,0 +1,12 @@
+{
+  "channels": [1],
+  "voltage_min": 0.0,
+  "voltage_max": 3.3,
+  "current_max": 0.2,
+  "load_current_max": 0.1,
+  "power_max": 0.66,
+  "rigol_vendor": "RIGOL TECHNOLOGIES",
+  "rigol_model": "DP832",
+  "siglent_vendor": "Siglent Technologies",
+  "siglent_model": "SDL1030X-E"
+}

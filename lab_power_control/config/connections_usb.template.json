@@ -1,0 +1,4 @@
+{
+  "rigol": {"backend": "usb", "resource": null, "timeout": 3.0},
+  "siglent": {"backend": "tcp", "host": null, "port": null, "timeout": 3.0}
+}
